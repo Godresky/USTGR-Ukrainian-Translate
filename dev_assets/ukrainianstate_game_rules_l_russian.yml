@@ -1,7 +1,7 @@
 ﻿l_russian:
  RULE_OPTION_INTERMARIUM:0 "Междуморье"
  RULE_INTERMARIUM_POL_AI_DESC:0 "Польский ИИ будет стремиться создать свой альянс в концепции Междуморья."
- UKR_AI_BEHAVIOR:0 "@UKR Украинская держава"
+ UKR_AI_BEHAVIOR:0 "@UKR Украина"
  CRIMEAN_AI_BEHAVIOR:0 "@CRM Белый Крым"
  RULE_OPTION_SOVIET_COMMUNISM:0 "Просоветский коммунизм"
  RULE_OPTION_SOVIET_COMMUNISM_DESC:0 "Украинский ИИ установит власть советов и наладит максимально дружественные отношения с СССР."
