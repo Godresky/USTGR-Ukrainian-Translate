@@ -1,8 +1,8 @@
 ﻿l_english:
- UKR_power_balance: "Національний балянс сил"
+ UKR_power_balance: "Національний баланс сил"
  UKR_vozhd_side: "Вождь"
  UKR_nation_side: "Нація"
- UKR_balance_range: "Балянс сил в політиці"
+ UKR_balance_range: "Баланс сил в політиці"
  UKR_vozhd_low_control_range: "Слабке переважання Вождя"
  UKR_vozhd_medium_control_range: "Переважання Вождя в політиці"
  UKR_vozhd_high_control_range: "Превалювання Вождя в політиці"
@@ -13,7 +13,7 @@
  UKR_nation_total_control_range: "Націєправство"
  UKR_bop_vozhd_strengthening: "Вплив Вождя збільшується"
  UKR_bop_nation_strengthening: "Вплив нації збільшується"
- UKR_have_active_bop_decisions: "Активне інше рішення про зміщення балянсу сил"
+ UKR_have_active_bop_decisions: "Активне інше рішення про зміщення балансу сил"
 
  UKR_bop_support_nation: "Підтримати націю"
  UKR_bop_expand_rights_of_nation: "Розширити права нації"
