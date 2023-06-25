@@ -511,7 +511,7 @@
  KUB_integration_of_rostov:0 "Интеграция Ростова"
  KUB_integration_of_external_kalmykia:0 "Интеграция Внешней Калмыкии"
  #CRM
- CRM_drought:0 "Засуха"
+ CRM_drought: "Посуха"
  CRM_drought_desc:0 "Наша страна находится в сложной ситуации засухи. Нам необходимо увеличить процент удовлетворенных водой людей для смягчения последствий от будущих засух.\n\nСейчас —  [?crm_drought_var|+0]§G%§! населения запасены водой.\n"
  CRM_internal_affairs_ongoing_flag:0 "Другое решение §Yактивировано§!."
  CRM_water_purchase:0 "Закупка воды у соседных стран"
