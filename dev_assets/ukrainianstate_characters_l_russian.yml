@@ -214,7 +214,7 @@
  CRM_pyotr_wrangel:0 "Пётр Врангель"
  CRM_pyotr_krasnov:0 "Пётр Краснов"
  CRM_cafer_seydahmet:0 "Серайя Шапшал"
- CRM_yakov_slashchov:0 "Яков Слащёв"
+ CRM_yakov_slashchov: "Яков Слащьов"
  CRM_alexandr_kutepov:0 "Александр Кутепов"
  CRM_pavel_shatilov:0 "Павел Шатилов"
  CRM_mikhail_kedrov:0 "Михаил Кедров"
