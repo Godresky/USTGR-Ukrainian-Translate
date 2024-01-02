@@ -23,3 +23,60 @@
  UKR_bop_cases_against_nation: "Справи проти національних діячів"
  UKR_bop_criticism_of_vozhd: "Критика Вождя"
  UKR_bop_critical_of_war: "Критика війни"
+
+ #Міхновський
+
+ UKR_mikhnovsky_power_balance:0 "Національний баланс сил"
+ UKR_opposition_side:0 "Партійна опозиція"
+ UKR_mikhnovsky_side:0 "Президент"
+ UKR_balance_range_mikhnovsky:0 "Баланс сил у політиці"
+ UKR_mikhnovsky_low_control_range:0 "Слабке переважання президента"
+ UKR_mikhnovsky_medium_control_range:0 "Переважання президента"
+ UKR_mikhnovsky_high_control_range:0 "Домінування президента"
+ UKR_mikhnovsky_total_control_range:0 "Тотальне домінування партійної президента"
+ UKR_opposition_low_control_range:0 "Слабке переважання партійної опозиції"
+ UKR_opposition_medium_control_range:0 "Переважання партійної опозиції"
+ UKR_opposition_high_control_range:0 "Домінування партійної опозиції"
+ UKR_opposition_total_control_range:0 "Тотальне домінування партійної опозиції"
+ UKR_bop_mikhnovsky_strengthening:0 "Вплив президента збільшується"
+ UKR_bop_opposition_strengthening:0 "Вплив опозиції збільшується"
+ UKR_have_active_bop_decisions:0 "Активно інше рішення на зміщення балансу сил"
+
+ UKR_bop_support_mikhnovsky:0 "Зміцнити владу президента"
+ UKR_bop_expand_rights_of_president:0 "Розширити права президента"
+ UKR_bop_extreme_measures:0 "Крайні заходи"
+ UKR_bop_criticize_the_president_extensively:0 "Широко критикувати політику президента"
+ UKR_bop_criticize_the_president_economy:0 "Критикувати економічну політику президента"
+ UKR_bop_criticize_the_president_army:0 "Критикувати політику президента щодо армії"
+ UKR_bop_criticize_the_president_freedom:0 "Критикувати політику президента щодо свобод"
+ UKR_bop_for_native_ukraine:0 "За рідну Україну!"
+ UKR_bop_for_my_brothers:0 "За братів наших!"
+ UKR_bop_for_future_of_kids:0 "За майбутнє покоління!"
+
+ # Crimean Tatars
+
+ CRM_balance_of_power_crimean_tatar:0 "Національний баланс сил"
+ CRM_religious_leadership_side:0 "Релігійна верхівка"
+ CRM_khan_side:0 "Хан"
+ CRM_balance_range_crimean_tatar:0 "Баланс сил у політиці"
+
+ CRM_khan_low_control_range:0 "Слабке переважання хана"
+ CRM_khan_medium_control_range:0 "Переважання хана"
+ CRM_khan_high_control_range:0 "Домінування хана"
+ CRM_khan_total_control_range:0 "Тотальне домінування хана"
+
+ CRM_religious_leadership_low_control_range:0 "Слабке переважання релігійної верхівки"
+ CRM_religious_leadership_medium_control_range:0 "Переважання релігійної верхівки"
+ CRM_religious_leadership_high_control_range:0 "Домінування релігійної верхівки"
+ CRM_religious_leadership_total_control_range:0 "Тотальне домінування релігійної верхівки"
+
+ CRM_bop_khan_strengthening:0 "Вплив хана збільшується"
+ CRM_bop_religious_leadership_strengthening:0 "Вплив релігійної верхівки збільшується"
+ UKR_have_active_bop_decisions:0 "Активно інше рішення на зміщення балансу сил"
+
+ CRM_bop_support_khan:0 "Вплив хана"
+ CRM_bop_expand_rights_of_khan:0 "Розширення прав хана"
+ CRM_bop_extreme_measures:0 "Крайні заходи"
+ UKR_bop_criticize_the_khan:0 "Критикувати хана"
+ UKR_bop_mention_importance_of_religion:0 "Згадати важливість релігії"
+
