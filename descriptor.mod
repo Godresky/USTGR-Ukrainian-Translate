@@ -7,4 +7,4 @@ dependencies={
 	"Ukrainian State: the Great Reborn"
 }
 name="Ukrainian State: the Great Reborn (Український переклад)"
-supported_version="1.12.14"
+supported_version="1.13.6"
